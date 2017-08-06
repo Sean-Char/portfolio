@@ -1,0 +1,14 @@
+h1, h6 {
+  color: #fff
+}
+.header {
+  margin-top: 50px;
+}
+
+.img1 {
+  background-image: url('../img/img1.jpg');
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

@@ -13,9 +13,8 @@ export default class Nav extends Component {
                   <Link to="/"><div className="brand-logo">SC</div></Link>
                   <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li><Link to="/">HOME</Link></li>
-                    <li><Link to="/professional">PROFESSIONAL</Link></li>
-                    <li><Link to="/experience">EXPERIENCE</Link></li>
                     <li><Link to="/portfolio">PORTFOLIO</Link></li>
+                    <li><Link to="/about">ABOUT</Link></li>
                   </ul>
                 </div>
               </div>

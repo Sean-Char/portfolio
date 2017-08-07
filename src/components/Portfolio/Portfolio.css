@@ -1,12 +1,14 @@
-
-.header {
-  margin-top: 180px;
+.text_portfolio {
+  margin-top: 150px;
   color: #fff;
 }
 
+.card_wrap {
+  margin-top: 35%;
+}
 
-.img1 {
-  background-image: url('../img/img1.jpeg');
+.img3 {
+  background-image: url('../img/img3.jpeg');
   position: relative;
   min-height: 100vh;
   background-position: center;

@@ -4,8 +4,8 @@
 }
 
 
-.img2 {
-  background-image: url('../img/img2.jpeg');
+.img5 {
+  background-image: url('../img/img5.jpeg');
   position: relative;
   min-height: 100vh;
   background-position: center;
@@ -16,24 +16,11 @@
 .link_text {
   margin-left: 8px;
 }
-.icon {
-	i.circle {
-		font-size: 18px;
-		line-height: 42px;
-		color: #fff;
-		background-color: #999;
-		text-align: center;
-	}
-	.circle {
-		position: relative;
-    margin-right: 16px;
-    margin-bottom: 16px;
-    float: left;
-		width: 42px;
-		height: 42px;
-		overflow: hidden;
-		left: 15px;
-		display: inline-block;
-		vertical-align: middle;
-	}
+
+.card_greet, .card_skills, .card_contact {
+  opacity: .90;
+}
+
+.card_skills, .card_contact {
+  min-height: 300px;
 }

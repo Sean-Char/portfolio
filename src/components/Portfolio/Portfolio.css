@@ -20,3 +20,7 @@
 img {
   min-height: 207px;
 }
+
+.card_text {
+  height: 140px;
+}

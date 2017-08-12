@@ -25,10 +25,10 @@ class Portfolio extends Component {
                         <div className="card-image">
                           <img className="responsive-img" src={img6} />
                           <span className="card-title">WorkOut</span>
-                          <a className="btn-floating halfway-fab waves-effect waves-light pulse blue"><i className="material-icons">navigate_next</i></a>
+                          <a  href="https://sean-char.github.io/workoutApp" className="btn-floating halfway-fab waves-effect waves-light pulse blue"><i className="material-icons">navigate_next</i></a>
                         </div>
-                        <div className="card-content">
-                          <p>Built with HTML5/CSS3, AngularJS, AngularJS Material & wger api. It allows users to select a muscle group and display workouts related to the muscle chosen.</p>
+                        <div className="card-content card_text">
+                          <p>It allows users to select a muscle group and display workouts related to the muscle chosen.</p>
                         </div>
                       </div>
                     </div>
@@ -38,10 +38,10 @@ class Portfolio extends Component {
                         <div className="card-image">
                           <img className="responsive-img" src={img7} />
                           <span className="card-title">Hairbook</span>
-                          <a className="btn-floating halfway-fab waves-effect waves-light pulse blue"><i className="material-icons">navigate_next</i></a>
+                          <a href="http://hair-app-project.herokuapp.com" className="btn-floating halfway-fab waves-effect waves-light pulse blue"><i className="material-icons">navigate_next</i></a>
                         </div>
-                        <div className="card-content">
-                          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                        <div className="card-content card_text">
+                          <p>It allows hairdresser to input sales and track it by month, weekly, etc.</p>
                         </div>
                       </div>
                     </div>
@@ -51,10 +51,10 @@ class Portfolio extends Component {
                         <div className="card-image">
                           <img className="responsive-img" src={img4} />
                           <span className="card-title">Travel Funds</span>
-                          <a className="btn-floating halfway-fab waves-effect waves-light pulse blue"><i className="material-icons">navigate_next</i></a>
+                          <a href="https://travelfunds.herokuapp.com" className="btn-floating halfway-fab waves-effect waves-light pulse blue"><i className="material-icons">navigate_next</i></a>
                         </div>
-                        <div className="card-content">
-                          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                        <div className="card-content card_text">
+                          <p>Produced app to target older demographic in assisting them to easily pick travel packages corresponding with their savings or goals.</p>
                         </div>
                       </div>
                     </div>
